@@ -1,10 +1,10 @@
-<h2 align="left">My name is Konstantin Chirkov</h2>
+<h1 align="center">Hi! I'm Chirkov Konstantin👋</h1>
 
-###
+<h3 align="center">Frontend Developer</h3>
+
+---
 
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">
 <p>Hello, it's a pleasure to meet you!</p>
@@ -19,7 +19,7 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 </p>
 
 
-###
+---
 
 <h3 align="left">🛠  Tech Stack</h3>
 
@@ -47,7 +47,7 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 </div>
 
 
-###
+---
 
 <h3 align="left">✉️  Contact Me</h3>
 
