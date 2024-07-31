@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me:</h3>
 
 <p align="left">
 <p>Hello, it's a pleasure to meet you!</p>
@@ -21,7 +21,7 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 
 ---
 
-<h3 align="left">🛠  Tech Stack</h3>
+<h3 align="left">🛠  Tech Stack:</h3>
 
 ###
 
@@ -49,7 +49,7 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 
 ---
 
-<h3 align="left">✉️  Contact Me</h3>
+<h3 align="left">✉️  Contact Me:</h3>
 
 ###
 
