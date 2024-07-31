@@ -19,7 +19,7 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" height="40" alt="javascript logo" style="color: #F7DF1E;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" height="40" alt="javascript logo" style="color: white" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" height="40" alt="typescript logo" style="color: #3178C6;" />
   <img width="12" />
