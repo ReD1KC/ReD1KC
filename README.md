@@ -1,26 +1,4 @@
-<h2 align="left">Hi 👋! My name is Konstantin Chirkov</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/svelte/svelte.png" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.png" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/next/next.png" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/tailwindcss/tailwindcss.png" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/graphql/graphql.png" height="40" alt="graphql logo"  />
-</div>
+<h2 align="left">Hi! My name is Konstantin Chirkov</h2>
 
 ###
 
@@ -29,7 +7,7 @@
 ###
 
 <p align="left">
-Hello, it's a pleasure to meet you!
+<p>Hello, it's a pleasure to meet you!</p>
 
 I'm a software developer with over 2.5 years of experience in enterprise development. I specialise in TypeScript/React/Next.js to build robust and scalable applications. Currently working on product development with my team. I have experience developing neural networks in Python and working with C#. Also have experience in system administration to effectively manage and maintain IT infrastructure. In the past, I have held the position of Deputy Information Security. As a result, I am experienced in managing my team, am a communicative person and have a good understanding of the corporate culture.
 
