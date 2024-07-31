@@ -19,36 +19,37 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" height="40" alt="javascript logo" style="color: #F7DF1E;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" height="40" alt="typescript logo" style="color: #3178C6;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" height="40" alt="python logo" style="color: #3776AB;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg" height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg" height="40" alt="csharp logo" style="color: #239120;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" height="40" alt="react logo" style="color: #61DAFB;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" height="40" alt="tailwind css logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" height="40" alt="tailwind css logo" style="color: #06B6D4;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/next-dot-js.svg" height="40" alt="next.js logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" height="40" alt="next.js logo" style="color: #000000;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/graphql.svg" height="40" alt="graphql logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/graphql.svg" height="40" alt="graphql logo" style="color: #E10098;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" height="40" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" height="40" alt="sql logo" style="color: #336791;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" height="40" alt="nosql logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" height="40" alt="nosql logo" style="color: #47A248;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/expo.svg" height="40" alt="expo logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/expo.svg" height="40" alt="expo logo" style="color: #000020;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" height="40" alt="linux logo" style="color: #FCC624;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg" height="40" alt="vim logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg" height="40" alt="vim logo" style="color: #019733;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jira.svg" height="40" alt="scrum logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jira.svg" height="40" alt="scrum logo" style="color: #0052CC;" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/supabase.svg" height="40" alt="supabase logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/supabase.svg" height="40" alt="supabase logo" style="color: #3ECF8E;" />
 </div>
+
 
 ###
 
