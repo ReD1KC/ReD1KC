@@ -19,35 +19,35 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" height="40" alt="typescript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" height="40" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40" alt="csharp logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg" height="40" alt="csharp logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.png" height="40" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" height="40" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/tailwindcss/tailwindcss.png" height="40" alt="tailwind css logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" height="40" alt="tailwind css logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/next/next.png" height="40" alt="next.js logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/next-dot-js.svg" height="40" alt="next.js logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/graphql/graphql.png" height="40" alt="graphql logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/graphql.svg" height="40" alt="graphql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/sql/sql.png" height="40" alt="sql logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" height="40" alt="sql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/nosql/nosql.png" height="40" alt="nosql logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" height="40" alt="nosql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/expo/expo.png" height="40" alt="expo logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/expo.svg" height="40" alt="expo logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/linux/linux.png" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/vim/vim.png" height="40" alt="vim logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg" height="40" alt="vim logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/scrum/scrum.png" height="40" alt="scrum logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jira.svg" height="40" alt="scrum logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/supabase/supabase.png" height="40" alt="supabase logo" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/supabase.svg" height="40" alt="supabase logo" />
 </div>
 
 ###
