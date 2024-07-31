@@ -28,15 +28,6 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/svelte/svelte.png" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react/react.png" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/next/next.png" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/tailwindcss/tailwindcss.png" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/graphql/graphql.png" height="40" alt="graphql logo"  />
 </div>
 
 ###
@@ -60,5 +51,14 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
   </a>
   <a href="mailto:tchirkokwork@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://t.me/konstantin_chirkov" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://wa.me/1234567890" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://hh.ru/resume/konstantin_chirkov" target="_blank">
+    <img src="https://img.shields.io/badge/HeadHunter-EA1C23?logo=headhunter&logoColor=white&style=for-the-badge" />
   </a>
 </div>
