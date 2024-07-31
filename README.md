@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Konstantin Chirkov</h2>
+<h2 align="left">My name is Konstantin Chirkov</h2>
 
 ###
 
@@ -10,7 +10,14 @@
 <p>Hello, it's a pleasure to meet you!</p>
 
 I'm a software developer with over 2.5 years of experience in enterprise development. I specialise in TypeScript/React/Next.js to build robust and scalable applications. 
+
+<p>
+<p>✅ Engaged in front-end application development</p>
+<p>✅ Layout websites from ready-made Figma designs</p>
+<p>✅ Write backend for C# applications</p>
 </p>
+</p>
+
 
 ###
 
@@ -19,45 +26,26 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" height="40" alt="javascript logo" style="color: #F7DC6F;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/typescript.svg" height="40" alt="typescript logo" style="color: #3178C6;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" height="40" alt="python logo" style="color: #3776AB;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/csharp.svg" height="40" alt="csharp logo" style="color: #239120;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" height="40" alt="react logo" style="color: #61DAFB;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/tailwindcss.svg" height="40" alt="tailwind css logo" style="color: #06B6D4;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/nextdotjs.svg" height="40" alt="next.js logo" style="color: #000000;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/graphql.svg" height="40" alt="graphql logo" style="color: #E10098;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/postgresql.svg" height="40" alt="sql logo" style="color: #336791;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/mongodb.svg" height="40" alt="nosql logo" style="color: #47A248;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/expo.svg" height="40" alt="expo logo" style="color: #000020;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linux.svg" height="40" alt="linux logo" style="color: #FCC624;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/vim.svg" height="40" alt="vim logo" style="color: #019733;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/jira.svg" height="40" alt="scrum logo" style="color: #0052CC;" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/supabase.svg" height="40" alt="supabase logo" style="color: #3ECF8E;" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/typescript-plain-icon-256x256-ypojgpyj.png" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="NoSQL" alt="NoSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
 </div>
 
+</div>
 
-###
-
-<h3 align="left">🌍  I'm currently based in...</h3>
-
-###
-
-<p align="left">NhaTrang, Vietnam</p>
 
 ###
 
