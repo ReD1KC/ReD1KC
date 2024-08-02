@@ -14,7 +14,7 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 <p>
 <p>✅ Engaged in front-end application development</p>
 <p>✅ Layout websites from ready-made Figma designs</p>
-<p>✅ Write backend for C# applications</p>
+<p>✅ React/Next.Js applications</p>
 </p>
 </p>
 
@@ -33,11 +33,8 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" title="NoSQL" alt="NoSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
