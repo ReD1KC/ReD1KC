@@ -14,7 +14,7 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 <p>
 <p>✅ Engaged in front-end application development</p>
 <p>✅ Layout websites from ready-made Figma designs</p>
-<p>✅ React/Next.Js applications</p>
+<p>✅ Next.Js/Svelte/Vue.js applications</p>
 </p>
 </p>
 
