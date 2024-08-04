@@ -69,9 +69,4 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 
 ---
 
-<h3 align="left">⭐  My stats:</h3>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReD1KC&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReD1KC&layout=compact)
 
