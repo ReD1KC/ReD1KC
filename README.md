@@ -12,9 +12,9 @@
 I'm a software developer with over 2.5 years of experience in enterprise development. I specialise in TypeScript/React/Next.js to build robust and scalable applications. 
 
 <p>
-<p>✅ Engaged in front-end application development: Next.Js/Svelte/React</p>
+<p>✅ Svelte applications</p>
 <p>✅ Layout websites from ready-made Figma designs</p>
-</p>
+<p>✅ Next.Js/TypeScript applications</p>
 </p>
 
 
