@@ -9,14 +9,7 @@
 <p align="left">
 <p>Hello, it's a pleasure to meet you!</p>
 
-I'm a software developer with over 2.5 years of experience in enterprise development. I specialise in TypeScript/React/Next.js to build robust and scalable applications. 
-
-<p>
-<p>✅ Svelte applications;</p>
-<p>✅ Layout websites from ready-made Figma designs;</p>
-<p>✅ Next.Js/TypeScript applications;</p>
-</p>
-
+I'm a software developer with over 2.5 years of experience in enterprise development. I specialise in TypeScript/React.Js/Next.js to build robust and scalable applications. 
 
 ---
 
