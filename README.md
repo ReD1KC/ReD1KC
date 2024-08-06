@@ -61,4 +61,12 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
 
 ---
 
+<h3 align="left">🦾  My Portfolio:</h3>
+<ul>
+  <li><a href="https://taqc.ru" target="_blank">
+    TAQC.ru
+  </a>
+</li>
+</ul>
+
 
