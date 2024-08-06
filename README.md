@@ -29,7 +29,6 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
 </div>
 
