@@ -30,10 +30,9 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
-
-</div>
-
 
 ---
 
@@ -68,5 +67,3 @@ I'm a software developer with over 2.5 years of experience in enterprise develop
   </a>
 </li>
 </ul>
-
-
