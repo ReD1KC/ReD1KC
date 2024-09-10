@@ -9,7 +9,7 @@
 <p align="left">
 <p>Hello, it's a pleasure to meet you!</p>
 
-I'm a software developer with over 2.5 years of experience in enterprise development. I specialise in TypeScript/React.Js/Next.js to build robust and scalable applications. 
+I'm a software developer with over 3 years of experience in enterprise development. I specialise in TypeScript/React.Js/Next.js to build robust and scalable applications. 
 
 ---
 
