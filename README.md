@@ -9,7 +9,7 @@
 <p align="left">
 <p>Hello, it's a pleasure to meet you!</p>
 
-I specialise in TypeScript/React.Js/Next.js to build robust and scalable applications. 
+I specialise in TypeScript/React.Js/Next.js and Vue.Js to build robust and scalable applications. 
 
 ---
 
