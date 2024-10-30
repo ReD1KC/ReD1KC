@@ -25,8 +25,6 @@ I specialise in TypeScript/React.Js/Next.js and Vue.Js to build robust and scala
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
@@ -67,3 +65,8 @@ I specialise in TypeScript/React.Js/Next.js and Vue.Js to build robust and scala
   </a>
 </li>
 </ul>
+
+---
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReD1KC&theme=tokyonight" width="45%" ></img> 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReD1KC&theme=tokyonight" width="45%" ></img> 
