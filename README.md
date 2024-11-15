@@ -58,7 +58,7 @@ I specialise in TypeScript/React.Js/Next.js and Vue.Js to build robust and scala
 
 ---
 
-<h3 align="left">🦾  My Portfolio:</h3>
+<h3 align="left">🦾  My Public portfolio:</h3>
 <ul>
   <li><a href="https://taqc.ru" target="_blank">
     TAQC.ru
