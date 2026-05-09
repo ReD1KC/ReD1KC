@@ -1,70 +1,80 @@
-<h1 align="center">Hi! I'm Chirkov Konstantin👋</h1>
-
-<h3 align="center">Frontend Developer</h3>
-
----
-
-<h3 align="left">👩‍💻  About Me:</h3>
-
-<p align="left">
-<p>Hello, it's a pleasure to meet you!</p>
-
-I specialise in TypeScript/React.Js/Next.js and Vue.Js to build robust and scalable applications. 
-
----
-
-<h3 align="left">🛠  Tech Stack:</h3>
-
-###
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<div align="center">
+  <h1>Konstantin Chirkov</h1>
+  <p><strong>Lead Frontend Developer</strong> · 4+ years in production</p>
+  <a href="https://www.linkedin.com/in/konstantin-chirkov-7554432b3"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>
+  <a href="mailto:tchirkokwork@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=flat-square"/></a>
+  <a href="https://t.me/Sammu1L"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=flat-square"/></a>
+  <a href="https://wa.me/+37258784686"><img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=flat-square"/></a>
+  <a href="https://hh.ru/resume/8d8781f1ff0d7a69c30039ed1f617651755a6a"><img src="https://img.shields.io/badge/HeadHunter-EA1C23?logo=headhunter&logoColor=white&style=flat-square"/></a>
 </div>
 
 ---
 
-<h3 align="left">✉️  Contact Me:</h3>
+## About
 
-###
+Frontend developer specializing in scalable web and mobile applications.  
+
+Currently leading frontend at **Ownima** (🇹🇭 Thailand) — cloud platform for vehicle rental.  
+Previously 4+ years at **Sclie** (🇪🇪 Estonia) — legal tech SaaS product.
+
+
+---
+
+## Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=flat-square)
+
+**State & Data**
+
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?logo=reactquery&logoColor=white&style=flat-square)
+![MobX](https://img.shields.io/badge/MobX-FF9955?logo=mobx&logoColor=white&style=flat-square)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?logo=pinia&logoColor=black&style=flat-square)
+![Vuex](https://img.shields.io/badge/Vuex-4FC08D?logo=vuedotjs&logoColor=white&style=flat-square)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square)
+
+**Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
+
+**Tools & Infra**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=flat-square)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
+---
+
+## Highlights
+
+- 🏗 Architected full frontend of a cross-platform rental SaaS (web + mobile)
+- 📱 Built and shipped React Native app with Expo for legal tech startup
+- ⚡ Optimized API integration and state management across 5+ production projects
+- 🤖 Developed and integrated a Python neural network for real-time object detection
+- 🧑‍🏫 Led code reviews, onboarding, and SCRUM ceremonies
+
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/konstantin-chirkov-7554432b3" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:tchirkokwork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://t.me/Sammu1L" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://wa.me/+37258784686" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://hh.ru/resume/8d8781f1ff0d7a69c30039ed1f617651755a6a" target="_blank">
-    <img src="https://img.shields.io/badge/HeadHunter-EA1C23?logo=headhunter&logoColor=white&style=for-the-badge" />
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReD1KC&theme=tokyonight" width="45%"/>
 </div>
-
----
-
-<h3 align="left">🦾  My public portfolio:</h3>
-<ul>
-  <li><a href="https://taqc.ru" target="_blank">
-    TAQC.ru
-  </a>
-</li>
-</ul>
-
----
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ReD1KC&theme=tokyonight" width="45%" ></img> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ReD1KC&theme=tokyonight" width="45%" ></img> 
