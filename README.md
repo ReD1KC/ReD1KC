@@ -101,11 +101,11 @@ Frontend developer specializing in **scalable web and mobile applications**, wit
 Cloud platform for vehicle rental. Own the full frontend architecture and client–server interaction for web + mobile.
 `React Native` · `React` · `Vue.js` · `TypeScript` · `TanStack Query` · `Pinia` · `Tailwind CSS` · `Swagger`
 
-**⚖️ Sclie / tHemCodes OÜ** — *Middle Frontend / Middle Mobile Developer* · 🇪🇪 Estonia · `Mar 2022 — present`
+**⚖️ Sclie / tHemCodes OÜ** — *Senior Frontend / Middle Mobile Developer* · 🇪🇪 Estonia · `Mar 2022 — present`
 Legal-services digitalization SaaS. Shipped a cross-platform mobile app and the company site, set up CI/CD and server (Linux + PM2), mentored new hires.
 `React Native` · `Expo` · `Next.js` · `MobX` · `Supabase` · `Flutter` · `GetX` · `Vue 3` · `Svelte` · `GraphQL`
 
-**🤖 AiThink** — *Junior Frontend Developer* · 🇷🇺 Russia · `Feb 2024 — Jul 2024`
+**🤖 AiThink** — *Frontend Developer* · 🇷🇺 Russia · `Feb 2024 — Jul 2024`
 AI solutions for small business. Built a Next.js data-visualization app and a **Python neural network** for object detection & tracking, then integrated it for real-time analysis in the browser.
 `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Python`
 
