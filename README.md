@@ -23,10 +23,10 @@
 
 ## About
 
-Frontend developer specializing in **scalable web and mobile applications**, with 5+ years of production experience across SaaS, legal-tech and AI products.
+Frontend developer specializing in **scalable web and mobile applications**, with 7+ years of production experience across SaaS, legal-tech and AI products.
 
 - 🐉 Currently **Lead Frontend** at **Ownima** (🇹🇭 Thailand) — cloud platform for vehicle rental
-- ⚖️ 4+ years at **Sclie / tHemCodes OÜ** (🇪🇪 Estonia) — legal-tech SaaS product
+- ⚖️ 5+ years at **Sclie / tHemCodes OÜ** (🇪🇪 Estonia) — legal-tech SaaS product
 - 🤖 Built and integrated a **Python neural network** for real-time object detection at **AiThink** (🇷🇺 Russia)
 - 🧑‍🏫 Lead code reviews, onboarding and SCRUM ceremonies
 - 🌍 Languages: **Russian** (native) · **English** (professional)
