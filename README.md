@@ -1,7 +1,10 @@
 <!-- ═══════════════════════════════  HEADER  ═══════════════════════════════ -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Konstantin%20Chirkov&fontSize=48&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Product%20Engineer%20·%20Frontend%20%26%20AI&descSize=20&descAlignY=58"/>
-</div>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="44" alt="👋"/>
+  Hi, I'm Konstantin Chirkov
+</h1>
+
+<h3 align="center">Product Engineer · Frontend &amp; AI</h3>
 
 <div align="center">
   <a href="https://github.com/ReD1KC">
@@ -21,10 +24,10 @@
   <img src="https://komarev.com/ghpvc/?username=ReD1KC&style=for-the-badge&color=blueviolet&label=Profile+views" alt="Profile views"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt=""/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt=""/>
 
 <!-- ═══════════════════════════════  ABOUT  ═══════════════════════════════ -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="👋"/> About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" width="32" alt="😎"/> About me
 
 <table>
 <tr>
@@ -59,7 +62,7 @@ const konstantin: ProductEngineer = {
 };
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt=""/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt=""/>
 
 <!-- ═══════════════════════════════  IMPACT  ═══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="32" alt="⚡"/> Impact
@@ -111,7 +114,7 @@ const konstantin: ProductEngineer = {
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt=""/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt=""/>
 
 <!-- ═══════════════════════════════  AI  ═══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="32" alt="🧠"/> How I build with AI
@@ -151,7 +154,7 @@ const konstantin: ProductEngineer = {
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt=""/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt=""/>
 
 <!-- ═══════════════════════════════  STACK  ═══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" width="32" alt="🧰"/> Tech Stack
@@ -174,7 +177,7 @@ const konstantin: ProductEngineer = {
 | ⚙️ **DevOps & tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square) ![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white&style=flat-square) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=flat-square) ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?logo=clickup&logoColor=white&style=flat-square) |
 | 🤖 **AI** | ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white&style=flat-square) ![OpenCode](https://img.shields.io/badge/OpenCode-000000?logo=opencode&logoColor=white&style=flat-square) ![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square) ![LLM](https://img.shields.io/badge/LLM-7C3AED?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-6D28D9?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer_Vision-3776AB?logo=python&logoColor=white&style=flat-square) |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt=""/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt=""/>
 
 <!-- ═══════════════════════════════  EXPERIENCE  ═══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="32" alt="💼"/> Experience
@@ -215,21 +218,13 @@ const konstantin: ProductEngineer = {
 Kept infrastructure uptime at 99% (Nagios, SolarWinds), cut network latency by 30%, built information-security training for staff.
 </details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt=""/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt=""/>
 
 <!-- ═══════════════════════════════  ACTIVITY  ═══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" alt="📊"/> GitHub Activity
 
 <div align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=ReD1KC&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub streak"/>
-  <br/><br/>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ReD1KC&theme=tokyo-night&hide_border=true&area=true&radius=12" alt="Activity graph"/>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ReD1KC/ReD1KC/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ReD1KC/ReD1KC/output/github-snake.svg"/>
-    <img width="100%" alt="Snake eating my contributions" src="https://raw.githubusercontent.com/ReD1KC/ReD1KC/output/github-snake-dark.svg"/>
-  </picture>
 </div>
 
 <p align="center">
@@ -237,7 +232,7 @@ Kept infrastructure uptime at 99% (Nagios, SolarWinds), cut network latency by 3
   <sub>Most of my production code lives in private company repositories (Ownima, themCodes, AiThink).<br/>Public repos here are pet projects, experiments and test assignments.</sub>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" alt=""/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt=""/>
 
 <!-- ═══════════════════════════════  CONNECT  ═══════════════════════════════ -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="32" alt="🤝"/> Let's connect
@@ -253,6 +248,4 @@ Kept infrastructure uptime at 99% (Nagios, SolarWinds), cut network latency by 3
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="🚀"/>
 </p>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
-</div>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt=""/>
